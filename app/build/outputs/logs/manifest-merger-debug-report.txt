@@ -1,101 +1,101 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml:15:1-32:12
-INJECTED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml:15:1-32:12
-INJECTED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml:15:1-32:12
-INJECTED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml:15:1-32:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\6453e5615deadd5025e2d5e619fcf095\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f3595ac43f5e159a7a5093743af4f02c\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c887a08e5fc787cd2bbffd570cf398ee\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\75305bb87035bc9628f3c3403258e6b5\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d204659f270d247cb0bce0407dc03d5c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e35341b93289476c7449aa830c059fce\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b205c34e9cd20046aa0f35ff2b3a1ee0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\bd3512dd56e456e697f3b8ec1ccb960d\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e19c61aca8fea7a41eb812bc1ab07ea2\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c8ee6a9280d097f17b529900252fc706\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4223981b53b83d1751e4aaf14629d54a\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\332a8d7d351293026fd5a26952e57b87\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml:15:1-32:12
-INJECTED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml:15:1-32:12
-INJECTED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml:15:1-32:12
+ADDED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml:15:1-32:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\74248a78d69b67ef1acb1720239399c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\d4deb623692fcb7c008d991436923590\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\85cb4e0f03813750ed6a5453aacad2cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\74c3d45ab7e4fc57de9e6a69dc9ff630\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\800f424b9edd6402b7946c43ede4a957\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ba0cfd3105e7baeb27a781c16fa21075\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b58cbfd0425719f7f8b223d05e3a7fc5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e21241e08636962de4b38197fa8c8fb7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d354d0aacc0c3b9995d7db00beb3a466\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9d44c613aa56defc194a9657e027d51c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3e75fda28f8088f659fb44046bb5da26\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\34d74ac2d5444a38b15efa98c6354da9\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml:15:1-32:12
 	package
-		ADDED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml:16:11-57
-		INJECTED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml:16:11-57
+		INJECTED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml:15:1-32:12
-		INJECTED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml:15:1-32:12
+		INJECTED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml:15:1-32:12
-		INJECTED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml:15:1-32:12
+		INJECTED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml:15:11-69
+		ADDED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml:15:11-69
 application
-ADDED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml:18:5-30:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f3595ac43f5e159a7a5093743af4f02c\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f3595ac43f5e159a7a5093743af4f02c\AndroidManifest.xml:9:5-20
+ADDED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml:18:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\d4deb623692fcb7c008d991436923590\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\d4deb623692fcb7c008d991436923590\AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml:22:9-35
+		ADDED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml:22:9-35
 	android:label
-		ADDED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml:21:9-41
+		ADDED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml:21:9-41
 	android:icon
-		ADDED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml:20:9-43
+		ADDED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml:20:9-43
 	android:allowBackup
-		ADDED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml:19:9-35
+		ADDED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml:19:9-35
 	android:theme
-		ADDED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml:23:9-40
+		ADDED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml:23:9-40
 activity#com.example.android.hellosharedprefs.MainActivity
-ADDED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml:24:9-29:20
+ADDED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml:24:9-29:20
 	android:name
-		ADDED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml:24:19-47
+		ADDED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml:24:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml:25:13-28:29
+ADDED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml:25:13-28:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml:26:17-69
+ADDED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml:26:17-69
 	android:name
-		ADDED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml:26:25-66
+		ADDED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml:26:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml:27:17-77
+ADDED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml:27:27-74
+		ADDED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml:27:27-74
 uses-sdk
-INJECTED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\6453e5615deadd5025e2d5e619fcf095\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\6453e5615deadd5025e2d5e619fcf095\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f3595ac43f5e159a7a5093743af4f02c\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f3595ac43f5e159a7a5093743af4f02c\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c887a08e5fc787cd2bbffd570cf398ee\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c887a08e5fc787cd2bbffd570cf398ee\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\75305bb87035bc9628f3c3403258e6b5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\75305bb87035bc9628f3c3403258e6b5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d204659f270d247cb0bce0407dc03d5c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d204659f270d247cb0bce0407dc03d5c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e35341b93289476c7449aa830c059fce\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e35341b93289476c7449aa830c059fce\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b205c34e9cd20046aa0f35ff2b3a1ee0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b205c34e9cd20046aa0f35ff2b3a1ee0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\bd3512dd56e456e697f3b8ec1ccb960d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\bd3512dd56e456e697f3b8ec1ccb960d\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e19c61aca8fea7a41eb812bc1ab07ea2\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e19c61aca8fea7a41eb812bc1ab07ea2\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c8ee6a9280d097f17b529900252fc706\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c8ee6a9280d097f17b529900252fc706\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4223981b53b83d1751e4aaf14629d54a\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4223981b53b83d1751e4aaf14629d54a\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\332a8d7d351293026fd5a26952e57b87\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Omni\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\332a8d7d351293026fd5a26952e57b87\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\74248a78d69b67ef1acb1720239399c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\74248a78d69b67ef1acb1720239399c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\d4deb623692fcb7c008d991436923590\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\d4deb623692fcb7c008d991436923590\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\85cb4e0f03813750ed6a5453aacad2cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\85cb4e0f03813750ed6a5453aacad2cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\74c3d45ab7e4fc57de9e6a69dc9ff630\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\74c3d45ab7e4fc57de9e6a69dc9ff630\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\800f424b9edd6402b7946c43ede4a957\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\800f424b9edd6402b7946c43ede4a957\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ba0cfd3105e7baeb27a781c16fa21075\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ba0cfd3105e7baeb27a781c16fa21075\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b58cbfd0425719f7f8b223d05e3a7fc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b58cbfd0425719f7f8b223d05e3a7fc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e21241e08636962de4b38197fa8c8fb7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e21241e08636962de4b38197fa8c8fb7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d354d0aacc0c3b9995d7db00beb3a466\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d354d0aacc0c3b9995d7db00beb3a466\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9d44c613aa56defc194a9657e027d51c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9d44c613aa56defc194a9657e027d51c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3e75fda28f8088f659fb44046bb5da26\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3e75fda28f8088f659fb44046bb5da26\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\34d74ac2d5444a38b15efa98c6354da9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\nconstant\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\34d74ac2d5444a38b15efa98c6354da9\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Omni\Downloads\Compressed\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\09.1 Shared preferences\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nconstant\Desktop\9.1 Shared preferences\app\src\main\AndroidManifest.xml

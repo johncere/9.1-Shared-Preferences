@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Omni\\Downloads\\Compressed\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\09.1 Shared preferences\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mr\\values-mr.xml",
+            "outputFile": "C:\\Users\\nconstant\\Desktop\\9.1 Shared preferences\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mr\\values-mr.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Omni\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\6453e5615deadd5025e2d5e619fcf095\\res\\values-mr\\values-mr.xml",
+                    "source": "C:\\Users\\nconstant\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\74248a78d69b67ef1acb1720239399c0\\res\\values-mr\\values-mr.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Omni\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\bd3512dd56e456e697f3b8ec1ccb960d\\res\\values-mr\\values-mr.xml",
+                    "source": "C:\\Users\\nconstant\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\e21241e08636962de4b38197fa8c8fb7\\res\\values-mr\\values-mr.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
